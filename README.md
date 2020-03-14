@@ -21,4 +21,5 @@ In 2014 Japan agreed to cooperate in developing the emergency reactor cooling sy
 In August 2019 France cancelled ASTRID and sodium-breeder in general. About €735 million had been spent on the project.
 
 English: https://en.wikipedia.org/wiki/ASTRID_(reactor)
+
 French: https://fr.wikipedia.org/wiki/Astrid_(r%C3%A9acteur)
