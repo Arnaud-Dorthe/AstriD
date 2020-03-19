@@ -6,9 +6,9 @@ Nuclear power and hydropower form the backbone of low-carbon electricity generat
 
 More information here: https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system
 
-# Astrid
+# AstriD
 
-ASTRID (Advanced Sodium Technological Reactor for Industrial Demonstration) is a proposal for a sodium-cooled fast breeder reactor (Generation IV)
+AstriD (Advanced sodium technological reactor for industrial Development) project aims to design a sodium-cooled fast breeder reactor (Generation IV)
 
 ASTRID (Advanced Sodium Technological Reactor for Industrial Demonstration) was a proposal for a 600 MW sodium-cooled fast breeder reactor (Generation IV), proposed by the Commissariat à l'énergie atomique (CEA). It was to be built on the Marcoule Nuclear Site in France. It was the successor of the three French fast reactors Rapsodie, Phénix and Superphénix.
 
